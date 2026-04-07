@@ -795,19 +795,7 @@ The report includes:
 **Institution:** Newcastle University  
 **Program:** MSc Advanced Computer Science  
 **Module:** CSC8204 - Secure Software Development  
-**Academic Year:** 2024/2025
-
----
-
-## ⚠️ Academic Integrity Notice
-
-This repository contains coursework submitted for academic assessment at Newcastle University.
-
-**Important:**
-- This work is showcased for **portfolio purposes**
-- Do not copy or submit as your own
-- Use as a learning reference for formal methods and security engineering
-- Respect academic integrity policies
+**Academic Year:** 2025/2026
 
 ---
 
